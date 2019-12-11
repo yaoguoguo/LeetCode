@@ -7,7 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D66425C02397A9DC001F8F5D /* No4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D66425BF2397A9DC001F8F5D /* No4.cpp */; };
 		D6A6A1C923966C3E00BD7186 /* No2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D6A6A1C823966C3E00BD7186 /* No2.cpp */; };
+		D6A6A1CB2396857100BD7186 /* No3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D6A6A1CA2396857100BD7186 /* No3.cpp */; };
 		D6F26778238BE55F0017F59B /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D6F26777238BE55F0017F59B /* main.cpp */; };
 /* End PBXBuildFile section */
 
@@ -24,7 +26,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		D66425BF2397A9DC001F8F5D /* No4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = No4.cpp; sourceTree = "<group>"; };
 		D6A6A1C823966C3E00BD7186 /* No2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = No2.cpp; sourceTree = "<group>"; };
+		D6A6A1CA2396857100BD7186 /* No3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = No3.cpp; sourceTree = "<group>"; };
 		D6F26774238BE55F0017F59B /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6F26777238BE55F0017F59B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,6 +65,8 @@
 			children = (
 				D6F26777238BE55F0017F59B /* main.cpp */,
 				D6A6A1C823966C3E00BD7186 /* No2.cpp */,
+				D6A6A1CA2396857100BD7186 /* No3.cpp */,
+				D66425BF2397A9DC001F8F5D /* No4.cpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -122,6 +128,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6A6A1CB2396857100BD7186 /* No3.cpp in Sources */,
+				D66425C02397A9DC001F8F5D /* No4.cpp in Sources */,
 				D6A6A1C923966C3E00BD7186 /* No2.cpp in Sources */,
 				D6F26778238BE55F0017F59B /* main.cpp in Sources */,
 			);
